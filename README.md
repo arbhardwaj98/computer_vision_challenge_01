@@ -18,7 +18,7 @@ for setting up and running the code are given in the following sections.
 Create and initialize a conda environment for the project: 
 ```
 $ conda create -n cv_challenge_1 python=3.7
-$ conda init cv_challenge_1
+$ conda activate cv_challenge_1
 ```
 Install the required python packages:
 ```
